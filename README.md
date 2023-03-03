@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hi👋, I'm Mykyta Shchedrin
 
-<!--
-**ennwy/ennwy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Technologies & Tools
 
-Here are some ideas to get you started:
+- Go, gRPC/Protobuf, Microservices
+- Linux, Bash, Python
+- RabbitMQ, SQL, HTML & CSS
+- Git, Github
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Experience
+
+- Experienced in developing microservices and managing their interactions with each other
+- Possess experience in building REST APIs
+- Seasoned in working with RabbitMQ and Postgres.
+- Have dealt with GRPC and Protobuf
+- Proficient in using Docker and Version Control System (Git)
+- Skilled in Python development.
+- Worked not only for backend implementation, but also had experience with HTML and CSS
+
+
