@@ -1,5 +1,8 @@
 # Hi👋, I'm Mykyta Shchedrin
 
+- Junior Go developer
+- Looking for a job
+
 ## Technologies & Tools
 
 - Go, gRPC/Protobuf, Microservices
