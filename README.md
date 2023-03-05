@@ -8,7 +8,7 @@
 - Go, gRPC/Protobuf, Microservices
 - Linux, Bash, Python
 - RabbitMQ, SQL, HTML & CSS
-- Git, Github
+- Git, Github, Docker
 
 ## Experience
 
