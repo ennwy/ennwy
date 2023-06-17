@@ -1,4 +1,4 @@
-# Hi👋, I'm Mykyta Shchedrin
+# Hello👋, I am Mykyta Shchedrin
 
 - Junior Go developer
 - Looking for a job
