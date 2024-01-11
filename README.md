@@ -1,7 +1,6 @@
 # Hello👋, I am Mykyta Shchedrin
 
-- Junior Go developer
-- Looking for a job
+- Go Back-end Developer
 
 ## Technologies & Tools
 
